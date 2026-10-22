@@ -1,1 +1,1 @@
-# -cosc113-vehicle-rental-lab-hicks
+# cosc113-vehicle-rental-lab-hicks
